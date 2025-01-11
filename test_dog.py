@@ -3,5 +3,3 @@ print('|q p|   /')
 print('( 0 )"""\ ')
 print('|"^"`    |')
 print('||_/=\\__|')
-
-print("it's a dog")
